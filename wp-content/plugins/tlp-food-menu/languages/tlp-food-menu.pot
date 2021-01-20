@@ -1,0 +1,566 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Food Menu\n"
+"POT-Creation-Date: 2020-02-13 15:44+0600\n"
+"PO-Revision-Date: 2020-02-13 15:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tlp-food-menu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/classes/FmHelper.php:246
+msgid "Buy"
+msgstr ""
+
+#: lib/classes/FmHelper.php:247
+msgid "Demo"
+msgstr ""
+
+#: lib/classes/FmHelper.php:248 lib/classes/FmSCMeta.php:149
+#: lib/classes/FmSCMeta.php:175
+msgid "Documentation"
+msgstr ""
+
+#: lib/classes/FmOptions.php:17 lib/classes/FmOptions.php:214
+#: lib/classes/FmSCMeta.php:215
+msgid "Layout"
+msgstr ""
+
+#: lib/classes/FmOptions.php:23
+msgid "Desktop column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:31
+msgid "Tab column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:39
+msgid "Mobile column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:47
+msgid "Image Size"
+msgstr ""
+
+#: lib/classes/FmOptions.php:53
+msgid "Excerpt limit"
+msgstr ""
+
+#: lib/classes/FmOptions.php:54
+msgid ""
+"Excerpt limit only integer number is allowed, Leave it blank for full "
+"excerpt."
+msgstr ""
+
+#: lib/classes/FmOptions.php:59
+msgid "Detail page link"
+msgstr ""
+
+#: lib/classes/FmOptions.php:60 lib/vendor/FmElementorWidget.php:84
+msgid "Enable"
+msgstr ""
+
+#: lib/classes/FmOptions.php:78
+msgid "Include only"
+msgstr ""
+
+#: lib/classes/FmOptions.php:81 lib/classes/FmOptions.php:88
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: lib/classes/FmOptions.php:85
+msgid "Exclude"
+msgstr ""
+
+#: lib/classes/FmOptions.php:92
+msgid "Limit"
+msgstr ""
+
+#: lib/classes/FmOptions.php:95
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: lib/classes/FmOptions.php:99 lib/classes/FmPostInit.php:84
+msgid "Categories"
+msgstr ""
+
+#: lib/classes/FmOptions.php:103
+msgid "Select the category you want to filter, Leave it blank for All category"
+msgstr ""
+
+#: lib/classes/FmOptions.php:108 lib/vendor/FmElementorWidget.php:45
+msgid "Order By"
+msgstr ""
+
+#: lib/classes/FmOptions.php:115 lib/vendor/FmElementorWidget.php:54
+msgid "Order"
+msgstr ""
+
+#: lib/classes/FmOptions.php:130
+msgid "Field Selection"
+msgstr ""
+
+#: lib/classes/FmOptions.php:148
+msgid "Parent class"
+msgstr ""
+
+#: lib/classes/FmOptions.php:150
+msgid "Parent class for adding custom css"
+msgstr ""
+
+#: lib/classes/FmOptions.php:154 lib/classes/FmOptions.php:164
+msgid "Title"
+msgstr ""
+
+#: lib/classes/FmOptions.php:165 lib/classes/FmPostAdmin.php:91
+msgid "Image"
+msgstr ""
+
+#: lib/classes/FmOptions.php:166 lib/classes/FmOptions.php:177
+#: lib/classes/FmPostAdmin.php:92 lib/classes/FmPostMeta.php:135
+msgid "Price"
+msgstr ""
+
+#: lib/classes/FmOptions.php:167
+msgid "Excerpt"
+msgstr ""
+
+#: lib/classes/FmOptions.php:174
+msgid "Menu Order"
+msgstr ""
+
+#: lib/classes/FmOptions.php:175
+msgid "Name"
+msgstr ""
+
+#: lib/classes/FmOptions.php:176
+msgid "Date"
+msgstr ""
+
+#: lib/classes/FmOptions.php:178
+msgid "ID"
+msgstr ""
+
+#: lib/classes/FmOptions.php:184
+msgid "Ascending"
+msgstr ""
+
+#: lib/classes/FmOptions.php:185
+msgid "Descending"
+msgstr ""
+
+#: lib/classes/FmOptions.php:191
+msgid "Soft Crop"
+msgstr ""
+
+#: lib/classes/FmOptions.php:192
+msgid "Hard Crop"
+msgstr ""
+
+#: lib/classes/FmOptions.php:198
+msgid "1 Column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:199
+msgid "2 Column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:200
+msgid "3 Column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:201
+msgid "4 Column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:202
+msgid "6 Column"
+msgstr ""
+
+#: lib/classes/FmOptions.php:215
+msgid "Grid By Category"
+msgstr ""
+
+#: lib/classes/FmOptions.php:223
+msgid "Left (£99.99)"
+msgstr ""
+
+#: lib/classes/FmOptions.php:224
+msgid "Right (99.99£)"
+msgstr ""
+
+#: lib/classes/FmOptions.php:225
+msgid "Left with space (£ 99.99)"
+msgstr ""
+
+#: lib/classes/FmOptions.php:226
+msgid "Right with space (99.99 £)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: lib/classes/FmPostInit.php:43 lib/classes/FmPostInit.php:44
+#: lib/vendor/FmElementorWidget.php:11 lib/vendor/FmElementorWidget.php:26
+msgid "Food Menu"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:45
+msgid "All Foods"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:46 lib/classes/FmPostInit.php:47
+msgid "Add Food"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:48
+msgid "Edit Food"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:49
+msgid "New Food"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:50
+msgid "View Food"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:51
+msgid "Search Food"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:52
+msgid "No Food found"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:53
+msgid "No Food in the trash"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:82
+msgid "Food Categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:83
+msgid "Food Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:85
+msgid "Edit Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:86
+msgid "Update Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:87
+msgid "Add New Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:88
+msgid "New Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:89
+msgid "Parent Category"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:90
+msgid "Parent Category:"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:91
+msgid "All Categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:92
+msgid "Search Categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:93
+msgid "Popular Categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:94
+msgid "Separate categories with commas"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:95
+msgid "Add or remove categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:96
+msgid "Choose from the most used  categories"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:97
+msgid "No categories found."
+msgstr ""
+
+#: lib/classes/FmPostInit.php:120 lib/classes/FmPostInit.php:123
+#: lib/classes/FmPostInit.php:124 lib/classes/FmPostInit.php:125
+msgid "ShortCode"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:121
+msgid "Food ShortCode"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:126
+msgid "Edit ShortCode"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:127
+msgid "New ShortCode"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:128
+msgid "View ShortCode"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:129
+msgid "ShortCode Locations"
+msgstr ""
+
+#: lib/classes/FmPostInit.php:130
+msgid "No ShortCode found."
+msgstr ""
+
+#: lib/classes/FmPostInit.php:131
+msgid "No ShortCode found in trash."
+msgstr ""
+
+#: lib/classes/FmPostMeta.php:121
+msgid "Food Details"
+msgstr ""
+
+#: lib/classes/FmPostMeta.php:140
+msgid "Insert the price, leave blank if it is free"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:135
+msgid "Short Code Generator"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:142
+msgid "Layout Preview"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:176
+msgid ""
+"Get started by spending some time with the documentation we included step by "
+"step process with screenshots with video."
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:216
+msgid "Filtering"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:217
+msgid "Field selection"
+msgstr ""
+
+#: lib/classes/FmSCMeta.php:218
+msgid "Styling"
+msgstr ""
+
+#: lib/classes/FmSettings.php:48
+msgid "Settings successfully updated"
+msgstr ""
+
+#: lib/classes/FmSettings.php:50
+msgid "Security Error !!"
+msgstr ""
+
+#: lib/classes/FmSettings.php:63
+msgid "TLP food menu settings"
+msgstr ""
+
+#: lib/classes/FmSettings.php:63
+msgid "Settings"
+msgstr ""
+
+#: lib/classes/FmShortCode.php:177
+msgid "No category found"
+msgstr ""
+
+#: lib/classes/FmShortCode.php:193
+msgid "No post found..."
+msgstr ""
+
+#: lib/classes/FmShortCode.php:203
+msgid "Session Error !!"
+msgstr ""
+
+#: lib/classes/FmShortCode.php:205
+msgid "No shortCode found"
+msgstr ""
+
+#: lib/classes/FmShortCode.php:400
+#: lib/templates/archive-food-menu-category.php:43
+msgid "No food found."
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:36
+msgid "Column"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:63
+msgid "Category"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:71
+msgid "Hide image"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:73
+msgid "Hide"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:74
+msgid "Show"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:81
+msgid "Disable Link"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:83
+msgid "Disable"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:91
+msgid "Wrapper Class"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:100
+msgid "Style"
+msgstr ""
+
+#: lib/vendor/FmElementorWidget.php:107
+msgid "Title color"
+msgstr ""
+
+#: lib/views/settings/general.php:12
+msgid "Slug"
+msgstr ""
+
+#: lib/views/settings/general.php:16
+msgid "Slug configuration"
+msgstr ""
+
+#: lib/views/settings/general.php:22
+msgid "Excerpt (short description) character limit"
+msgstr ""
+
+#: lib/views/settings/general.php:26
+msgid "Set character limit for short description"
+msgstr ""
+
+#: lib/views/settings/general.php:32
+msgid "Food Menu item display"
+msgstr ""
+
+#: lib/views/settings/general.php:48
+msgid "Hide image at detail page"
+msgstr ""
+
+#: lib/views/settings/general.php:56
+msgid "Hide price at detail page"
+msgstr ""
+
+#: lib/views/settings/general.php:65
+msgid "Currency"
+msgstr ""
+
+#: lib/views/settings/general.php:69 lib/views/settings/general.php:86
+msgid "Select one"
+msgstr ""
+
+#: lib/views/settings/general.php:82
+msgid "Currency Position"
+msgstr ""
+
+#: lib/views/settings/others.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/views/settings/settings.php:5
+msgid "TLP Food Menu Settings"
+msgstr ""
+
+#: lib/views/settings/settings.php:8
+msgid "General settings"
+msgstr ""
+
+#: lib/views/settings/settings.php:14
+msgid "General"
+msgstr ""
+
+#: lib/views/settings/settings.php:16
+msgid "Others"
+msgstr ""
+
+#: lib/views/settings/settings.php:18
+msgid "Theme & Plugins (Pro)"
+msgstr ""
+
+#: lib/views/settings/settings.php:38
+msgid "Save Changes"
+msgstr ""
+
+#: lib/widgets/FmWidget.php:16
+msgid "Display Food menu"
+msgstr ""
+
+#: lib/widgets/FmWidget.php:18
+msgid "TPL Food Menu"
+msgstr ""
+
+#: lib/widgets/FmWidget.php:106
+msgid "No post found"
+msgstr ""
+
+#: lib/widgets/FmWidget.php:123
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/FmWidget.php:129
+msgid "Number of item to show : "
+msgstr ""
+
+#: lib/widgets/FmWidget.php:135
+msgid "Category id (eg. 1,2,7) leave it blank for all:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://demo.radiustheme.com/wordpress/plugins/food-menu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fully responsive and mobile friendly WP food menu display plugin for "
+"restaurant, cafes, bars, coffee house, fast food."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://radiustheme.com/"
+msgstr ""
